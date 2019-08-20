@@ -7,10 +7,10 @@ Simple shop website based on Django Rest Framework
 # Quick Start
 Simply clone this repository in the directory with venv
 More about venv creation:
->https://docs.python.org/3/library/venv.html
-To make it work you need to install
-> Django
-> Django Rest Framework
+>https://docs.python.org/3/library/venv.html<br>
+To make it work you need to install<br>
+> Django<br>
+> Django Rest Framework<br>
 to install first activate virtual environment:
 ### For Linux
 ```source /{venv}/bin/activate ```
