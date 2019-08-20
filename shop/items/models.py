@@ -10,7 +10,7 @@ class Category(models.Model):
 
 
 class Item(models.Model):
-    categories = models.ManyToManyField('Category')
+    categories = models.ManyToManyField(Category)
     name = models.TextField(max_length=150)
     price = models.FloatField()
     available = models.BooleanField()
