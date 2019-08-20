@@ -16,8 +16,8 @@ to install first activate virtual environment:
 ### For Linux
 ```source /{venv}/bin/activate ```
 ### For Windows
-```{venv}/Scipts/activate ```
-After activation simply install using pip, for example:
+```{venv}/Scipts/activate ```<br>
+After activation simply install using pip, for example:<br>
 ```pip install Django```
 
 # Views
